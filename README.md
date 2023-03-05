@@ -1,2 +1,3 @@
 # SE3314-Computer-Network-Applications
-Computer networks and data communication are the fastest growing technologies in our culture. 
+Computer networks and data communication are the fastest growing technologies in our culture today. This is especially true when we are experiencing every year new social networking applications appears and have become quickly very popular. People use the Internet more and more every day. They use the Internet from the time they get up in the morning to the moment they lie down for bed. Therefore, specialists are needed to develop and control the Internet applications, or the network applications connected to the Internet.
+The labs are desgined to practice the fundamentals and understand the concepts of computer networks in general and the Internet and networks applications in particular.
